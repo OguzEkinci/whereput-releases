@@ -27,7 +27,7 @@ Official download page for WherePut - the context-aware file tracker.
 - **Free Trial**: 7 days with limited features (20 files, 50 clipboard items)
 - **Pro License**: $79 one-time payment for unlimited everything
 
-👉 **[Get WherePut Pro](https://whereputpro.lemonsqueezy.com)**
+👉 **[Get WherePut Pro](https://whereputpro.lemonsqueezy.com/checkout)**
 
 ## 📄 Links
 
