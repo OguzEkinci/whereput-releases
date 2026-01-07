@@ -11,8 +11,7 @@ Official download page for WherePut - the context-aware file tracker.
 | Platform | Download | Size |
 |----------|----------|------|
 | **macOS** (Apple Silicon) | [WherePut-1.0.0-arm64.dmg](https://github.com/OguzEkinci/whereput-releases/releases/latest/download/WherePut-1.0.0-arm64.dmg) | ~123 MB |
-| **macOS** (Intel) | Coming Soon | - |
-| **Windows** | Coming Soon | - |
+| **Windows** (64-bit) | [WherePut Setup 1.0.0.exe](https://github.com/OguzEkinci/whereput-releases/releases/latest/download/WherePut%20Setup%201.0.0.exe) | ~95 MB |
 
 ## 🚀 Features
 
@@ -32,9 +31,9 @@ Official download page for WherePut - the context-aware file tracker.
 
 ## 📄 Links
 
-- 🌐 **Website**: [whereput.app](https://whereput.app)
-- 📜 **Privacy Policy**: [whereput.app/privacy](https://whereput.app/privacy.html)
-- 📋 **Terms of Service**: [whereput.app/terms](https://whereput.app/terms.html)
+- 🌐 **Website**: [whereput.com](https://whereput.com)
+- 📜 **Privacy Policy**: [whereput.com/privacy](https://whereput.com/privacy.html)
+- 📋 **Terms of Service**: [whereput.com/terms](https://whereput.com/terms.html)
 
 ## 🔄 Changelog
 
